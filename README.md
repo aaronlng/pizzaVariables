@@ -1,8 +1,8 @@
-### File
+# File
 
 * [`pizza-variables`](Unsolved/pizza-variables.html)
 
-### Instructions
+## Instructions
 
 * Using the instructions in the file above, fill in the missing JavaScript code to create variables.
 
